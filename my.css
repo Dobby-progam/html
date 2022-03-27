@@ -1,8 +1,9 @@
-p {
+#maint {
     color: #ffffff;
     text-align: center;
 }
-h1 {color: rgba(255, 217, 0, 0.877);
+#h1 {color: rgba(255, 217, 0, 0.877);
 text-align: center;
 }
 body {background-color: black;}
+#img {text-align: center;} 
